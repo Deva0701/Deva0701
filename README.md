@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 - Java  
 
 **UI/UX:**
--wireframing
--prototype
+- wireframing
+- prototype
 
 **Web:**  
 - HTML  
