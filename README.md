@@ -35,8 +35,10 @@ Here are some ideas to get you started:
 
 **Languages:**  
 - Java  
-- C  
-- JavaScript  
+
+**UI/UX:**
+-wireframing
+-prototype
 
 **Web:**  
 - HTML  
@@ -45,13 +47,13 @@ Here are some ideas to get you started:
 
 **Databases:**  
 - MySQL  
-- SQLite  
 
 **Tools & Platforms:**  
 - Git & GitHub  
 - VS Code  
 - Eclipse  
-- NetBeans  
+- figma
+- excel
 
 ---
 
