@@ -1,101 +1,100 @@
-## Hi there 👋
-
-<!--
-**Deva0701/Deva0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hi, I'm Devadharshini Selvam
-
-🎓 Computer Science & Technology Enthusiast  
-💻 Aspiring Software Developer | Java | Web Development  
-🚀 Passionate about building real-world projects  
+<h1 align="center">Hi 👋, I'm Devadharshini Selvam</h1>
+<h3 align="center">Aspiring Software Engineer | UI/UX Enthusiast | CSE Student 🚀</h3>
 
 ---
 
-## 🧠 About Me
+## 👩‍💻 About Me
 
-- 🔹 Java Programming Intern at **CodeAlpha** (Feb 2025)
-- 🔹 Interested in **Software Development, Web Apps & Databases**
-- 🔹 Currently learning **Advanced Java, JDBC, and Web Technologies**
-- 🔹 Goal: Build impactful tech solutions and grow as a developer
+I am a passionate and dedicated Computer Science Engineering student at PSNA College of Engineering and Technology with a strong interest in Software Development, Web Technologies, and UI/UX Design.
+
+I enjoy building user-friendly applications and continuously improving my technical and problem-solving skills. I believe in practical learning and actively participate in internships, hackathons, and technical events to gain real-world exposure.
+
+- 🎓 B.E. Computer Science Engineering  
+- 💡 Interested in Software Development & UI/UX Designing  
+- 🌱 Continuously learning Java, SQL, and Full Stack Development  
+- 🏆 Participated in Smart India Hackathon (SIH)  
+- 🎯 Career Goal: To become a skilled Software Engineer and contribute to innovative solutions  
+
+---
+
+## 🏆 Hackathon Experience
+
+### 🔹 Smart India Hackathon (SIH) Participant
+- Collaborated in a team to solve real-world problem statements  
+- Contributed to idea generation, solution design, and implementation  
+- Improved teamwork, problem-solving, and time management skills  
+- Gained exposure to competitive coding and innovation-driven development  
+
+---
+
+## 💼 Internship Experience
+
+### 🔹 Java Programming Intern
+- Worked on Core Java concepts including OOP principles  
+- Implemented classes, inheritance, polymorphism, file handling, and exception handling  
+- Developed mini-projects to strengthen programming logic  
+
+---
+
+### 🔹 Web Development Intern
+- Designed and developed responsive web pages  
+- Worked with HTML, CSS, and JavaScript  
+- Focused on clean UI design and user-friendly interfaces  
+- Debugged and improved website performance  
+
+---
+
+### 🔹 Software Development Intern
+- Contributed to real-time development tasks  
+- Assisted in debugging and enhancing application features  
+- Applied problem-solving skills in practical scenarios  
+- Learned professional workflow and team collaboration  
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages:**  
+### 💻 Programming
 - Java  
 
-**UI/UX:**
-- wireframing
-- prototype
-
-**Web:**  
+### 🌐 Web Development
 - HTML  
 - CSS  
 - JavaScript  
 
-**Databases:**  
-- MySQL  
+### 🎨 UI/UX Design
+- Wireframing  
+- Prototyping  
+- User-centered Design Principles  
 
-**Tools & Platforms:**  
+### 🗄️ Database
+- SQL  
+
+---
+
+## 🔧 Tools & Technologies
+
 - Git & GitHub  
 - VS Code  
 - Eclipse  
-- figma
-- excel
+- Figma  
+- Canva  
+- Microsoft Excel  
 
 ---
 
-## 📂 Projects
+## 📊 GitHub Stats
 
-### 🏨 Hotel Reservation System
-Java-based application with:
-- GUI (Swing/JavaFX)  
-- Database connectivity using JDBC & SQLite  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-### 💼 Portfolio Website
-Personal website built using:
-- HTML, CSS, JavaScript  
-- Showcases skills, resume & projects  
-
-### 📈 Stock Trading Platform (In Progress)
-- Real-time trading system  
-- User authentication & portfolio tracking  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-## 📜 Internship
+## 📫 Connect With Me
 
-**Java Programming Intern – CodeAlpha**  
-📅 Feb 1, 2025 – Feb 28, 2025  
-- Developed Java applications  
-- Strengthened OOP and debugging skills  
+- 💼 LinkedIn: www.linkedin.com/in/devadharshini-selvam-92b7b9298  
 
 ---
 
-## 📫 Contact Me
-
-📧 Email: ssdevadharshini2006@gmail.com  
-📱 Phone: 8122612800  
-🔗 LinkedIn: [Devadharshini Selvam](https://www.linkedin.com/in/devadharshini-selvam-92b7b9298)
-
----
-
-## 🌟 GitHub Stats
-
-![Devadharshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevadharshiniSelvam&show_icons=true&theme=radical)
-
----
-
-⭐ *Thanks for visiting my profile! Feel free to connect and collaborate.*
+⭐ *“Code with passion. Design with purpose. Build with confidence.”*
